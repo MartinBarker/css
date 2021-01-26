@@ -1,0 +1,21 @@
+body {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+#outer-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 900px;
+    margin-left: 100px;
+}
+.left-container {
+    margin-right: auto;
+    padding-right: 50px;
+}
+.right-container {
+    margin-left: auto;
+    padding-left: 50px;
+}
+#vertical-separator {
+    border: solid 1px #d5dbdb;
+}
